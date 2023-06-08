@@ -1,5 +1,8 @@
 # :WIP: Praha Base
 
+[![tests](https://github.com/Eira/prague_base/actions/workflows/tests.yml/badge.svg?branch=master)](https://github.com/Eira/prague_base/actions/workflows/tests.yml)
+[![codecov](https://codecov.io/github/Eira/prague_base/branch/master/graph/badge.svg?token=DDGHRUZZ0P)](https://codecov.io/github/Eira/prague_base)
+[![linters](https://github.com/Eira/prague_base/actions/workflows/linters.yml/badge.svg?branch=master)](https://github.com/Eira/prague_base/actions/workflows/linters.yml)
 
 ### Pre-requirements
 - [python 3.11+](https://www.python.org/downloads/)
