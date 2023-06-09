@@ -1,0 +1,2 @@
+# launch tickets updater every 8 hours
+0 */8 * * * python -m app.tickets_updater
