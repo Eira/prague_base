@@ -10,7 +10,7 @@
 ### Local setup
 ```shell
 $ git clone git@github.com:esemi/prague_base.git
-$ cd canyon-notifier
+$ cd prague_base
 $ python3.11 -m venv venv
 $ source venv/bin/activate
 $ pip install -U poetry pip setuptools
@@ -28,4 +28,9 @@ $ pytest --cov=app
 poetry run flake8 app/
 
 poetry run mypy app/
+```
+
+### Set up crontab
+```
+crontab -r etc/crontab.txt
 ```
